@@ -1,9 +1,6 @@
 <!-- ========================================================= -->
-
 <!--                 JHON ARONI SALAZAR                        -->
-
 <!--              GitHub Profile README                        -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -17,10 +14,12 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Jhon-ArSa&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views">
-
 <img src="https://img.shields.io/github/followers/Jhon-ArSa?label=FOLLOWERS&style=for-the-badge&color=181717&logo=github" alt="Followers">
-
 <img src="https://img.shields.io/github/stars/Jhon-ArSa?label=STARS&style=for-the-badge&color=yellow&logo=github" alt="Stars">
+
+<br><br>
+
+📍 Huancayo, Junín, Perú &nbsp;·&nbsp; 🎓 Universidad Nacional del Centro del Perú (UNCP) &nbsp;·&nbsp; 🗣️ Español (nativo) · Inglés (en progreso)
 
 </div>
 
@@ -28,9 +27,23 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Artificial%20Intelligence%20%7C%20Software%20Engineering&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Artificial%20Intelligence%20%7C%20Software%20Engineering&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Banner"/>
 
 </div>
+
+---
+
+## 📑 Contenido
+
+- [Sobre mí](#-sobre-mí)
+- [Formación académica](#-formación-académica)
+- [Tech Stack](#-tech-stack)
+- [AI Engineering](#-ai-engineering)
+- [Proyectos destacados](#-proyectos-destacados)
+- [Computer Vision & Research](#️-computer-vision--research)
+- [GitHub Analytics](#-github-analytics)
+- [Objetivos profesionales](#-objetivos-profesionales)
+- [Contacto](#-conecta-conmigo)
 
 ---
 
@@ -58,38 +71,41 @@ Mi objetivo profesional es desarrollarme como **AI Engineer**, combinando ingeni
 
 ---
 
+## 🎓 Formación académica
+
+| Institución | Programa | Estado |
+|---|---|---|
+| Universidad Nacional del Centro del Perú (UNCP) — Facultad de Ingeniería de Sistemas | Ingeniería de Sistemas | 8.º semestre (en curso) |
+
+<!-- Opcional: agrega aquí certificaciones o cursos, por ejemplo:
+| Plataforma | Curso / Certificación | Año | -->
+
+---
+
 ## ⚡ Tech Stack
 
 ### 👨‍💻 Lenguajes
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,php,dart,javascript,typescript,html,css,java,mysql,postgresql&perline=10" />
-
+<img src="https://skillicons.dev/icons?i=python,php,dart,javascript,typescript,html,css,java,mysql,postgresql&perline=10" alt="Lenguajes" />
 </p>
 
 ### 🧩 Frameworks & Desarrollo
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,flutter,react,nodejs,express&perline=10" />
-
+<img src="https://skillicons.dev/icons?i=laravel,flutter,react,nodejs,express&perline=10" alt="Frameworks" />
 </p>
 
 ### 🤖 AI & Data
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=10" />
-
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=10" alt="AI y Data" />
 </p>
 
 ### 🛠️ Herramientas
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&perline=10" />
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&perline=10" alt="Herramientas" />
 </p>
 
 ---
@@ -98,11 +114,11 @@ Mi objetivo profesional es desarrollarme como **AI Engineer**, combinando ingeni
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-00D9FF?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Edge%20AI-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-2962FF?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-00D9FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+<img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge" alt="LLM"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/Edge%20AI-00C853?style=for-the-badge" alt="Edge AI"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-2962FF?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
 
 </div>
 
@@ -166,14 +182,20 @@ Integración de IA con aplicaciones web, móviles y dispositivos físicos.
 
 # 🚀 Proyectos Destacados
 
+| Proyecto | Área | Stack principal |
+|---|---|---|
+| [QHICHWA-BAND](#️-qhichwa-band) | IA Offline · NLP Quechua | Python, Raspberry Pi, Speech AI |
+| [RAG Educativo](#-rag-educativo) | LLM · RAG | Python, Qwen2.5, QLoRA |
+| [WAWA-AI](#-wawa-ai) | Móvil | React Native, Expo, TypeScript |
+
 ## 🗣️ QHICHWA-BAND
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI-Offline-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Edge-AI-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Quechua-NLP-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Raspberry-Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-Offline-00D9FF?style=for-the-badge" alt="AI Offline"/>
+<img src="https://img.shields.io/badge/Edge-AI-00C853?style=for-the-badge" alt="Edge AI"/>
+<img src="https://img.shields.io/badge/Quechua-NLP-8A2BE2?style=for-the-badge" alt="Quechua NLP"/>
+<img src="https://img.shields.io/badge/Raspberry-Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
 
 </div>
 
@@ -197,16 +219,18 @@ El sistema busca procesar voz en Quechua y generar una traducción al español d
 
 `Python` `Raspberry Pi` `Speech AI` `LLM` `Edge AI` `OLED` `INMP441`
 
+<!-- Repositorio: [Ver código](https://github.com/Jhon-ArSa/NOMBRE-DEL-REPO) -->
+
 ---
 
-# 📚 RAG Educativo
+## 📚 RAG Educativo
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QLoRA-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge" alt="LLM"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/QLoRA-00C853?style=for-the-badge" alt="QLoRA"/>
 
 </div>
 
@@ -229,15 +253,17 @@ El proyecto utiliza modelos de lenguaje y bases de conocimiento para generar mat
 
 `Python` `Qwen2.5` `QLoRA` `RAG` `LLM` `Embeddings`
 
+<!-- Repositorio: [Ver código](https://github.com/Jhon-ArSa/NOMBRE-DEL-REPO) -->
+
 ---
 
-# 📱 WAWA-AI
+## 📱 WAWA-AI
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mobile%20App-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+<img src="https://img.shields.io/badge/Mobile%20App-4285F4?style=for-the-badge" alt="Mobile App"/>
 
 </div>
 
@@ -249,6 +275,8 @@ Aplicación móvil desarrollada con **React Native + Expo**, orientada a constru
 
 `React Native` `Expo` `JavaScript` `TypeScript` `Android`
 
+<!-- Repositorio: [Ver código](https://github.com/Jhon-ArSa/NOMBRE-DEL-REPO) -->
+
 ---
 
 # 👁️ Computer Vision & Research
@@ -257,10 +285,10 @@ También trabajo en proyectos relacionados con:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/YOLO-Computer%20Vision-2962FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Object%20Detection-AI-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Drone%20Vision-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLO-Computer%20Vision-2962FF?style=for-the-badge" alt="YOLO"/>
+<img src="https://img.shields.io/badge/Object%20Detection-AI-8A2BE2?style=for-the-badge" alt="Object Detection"/>
+<img src="https://img.shields.io/badge/Drone%20Vision-00C853?style=for-the-badge" alt="Drone Vision"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" alt="Deep Learning"/>
 
 </div>
 
@@ -278,9 +306,8 @@ También trabajo en proyectos relacionados con:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhon-ArSa&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon-ArSa&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhon-ArSa&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon-ArSa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -288,7 +315,7 @@ También trabajo en proyectos relacionados con:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jhon-ArSa&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Jhon-ArSa&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 
 </div>
 
@@ -298,7 +325,7 @@ También trabajo en proyectos relacionados con:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhon-ArSa&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhon-ArSa&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
@@ -308,7 +335,7 @@ También trabajo en proyectos relacionados con:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jhon-ArSa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jhon-ArSa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -367,18 +394,24 @@ Actualmente estoy construyendo una base sólida en:
 <div align="center">
 
 <a href="https://github.com/Jhon-ArSa">
-<img src="https://img.shields.io/badge/GitHub-Jhon--ArSa-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Jhon--ArSa-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<!-- ⚠️ REEMPLAZA con la URL de tu perfil: https://www.linkedin.com/in/TU-USUARIO/ -->
+<a href="https://www.linkedin.com/in/TU-USUARIO/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+<!-- ⚠️ REEMPLAZA con tu correo real -->
 <a href="mailto:TU_CORREO@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
+
+<br>
+
+> 💬 Abierto a prácticas, proyectos de investigación y colaboraciones en **IA, Computer Vision, Edge AI y desarrollo backend**.
 
 ---
 
@@ -386,6 +419,6 @@ Actualmente estoy construyendo una base sólida en:
 
 ### 💻 Building intelligent systems with purpose.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 
 </div>
