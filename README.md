@@ -36,13 +36,19 @@
 ## 📑 Contenido
 
 - [Sobre mí](#-sobre-mí)
+- [Perfil profesional](#-perfil-profesional)
 - [Formación académica](#-formación-académica)
 - [Tech Stack](#-tech-stack)
+- [Competencias técnicas](#-competencias-técnicas)
 - [AI Engineering](#-ai-engineering)
 - [Proyectos destacados](#-proyectos-destacados)
 - [Computer Vision & Research](#️-computer-vision--research)
+- [Investigación y publicaciones](#-investigación-y-publicaciones)
+- [Certificaciones y cursos](#-certificaciones-y-cursos)
+- [Hoja de ruta 2026](#️-hoja-de-ruta-2026)
 - [GitHub Analytics](#-github-analytics)
 - [Objetivos profesionales](#-objetivos-profesionales)
+- [Colaboración](#-colaboración)
 - [Contacto](#-conecta-conmigo)
 
 ---
@@ -68,6 +74,38 @@ Mi objetivo profesional es desarrollarme como **AI Engineer**, combinando ingeni
 * 🗄️ Bases de datos
 * ☁️ Cloud & DevOps
 * 🔐 Seguridad de la información
+
+---
+
+## 💼 Perfil profesional
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🎯 Rol objetivo**
+
+AI Engineer / Backend Developer
+
+</td>
+<td width="33%" valign="top">
+
+**🧭 Especialidad**
+
+IA aplicada, Edge AI, Computer Vision y sistemas inteligentes
+
+</td>
+<td width="33%" valign="top">
+
+**🌐 Enfoque**
+
+Soluciones de impacto real con tecnología accesible, incluyendo contextos locales y de baja conectividad
+
+</td>
+</tr>
+</table>
+
+**Valor que aporto:** integro modelos de IA con backend, aplicaciones móviles/web y hardware físico, llevando ideas desde la investigación hasta un prototipo funcional.
 
 ---
 
@@ -107,6 +145,21 @@ Mi objetivo profesional es desarrollarme como **AI Engineer**, combinando ingeni
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&perline=10" alt="Herramientas" />
 </p>
+
+---
+
+## 🧰 Competencias técnicas
+
+| Área | Competencias |
+|---|---|
+| 🤖 **Inteligencia Artificial** | LLMs, RAG, fine-tuning con QLoRA, embeddings, Deep Learning |
+| 👁️ **Computer Vision** | Detección y conteo de objetos con YOLO y OpenCV |
+| ⚡ **Edge AI / IoT** | Raspberry Pi, procesamiento local, reconocimiento y síntesis de voz |
+| 🖥️ **Backend** | Python, PHP (Laravel), Node.js (Express), diseño de APIs REST |
+| 📱 **Móvil y Web** | Flutter, React Native (Expo), React, TypeScript, HTML/CSS |
+| 🗄️ **Bases de datos** | MySQL, PostgreSQL |
+| 🛠️ **Herramientas** | Git, GitHub, Docker, Linux, Postman, Figma, VS Code |
+| 🔐 **Seguridad** | Fundamentos de seguridad de la información |
 
 ---
 
@@ -219,6 +272,21 @@ El sistema busca procesar voz en Quechua y generar una traducción al español d
 
 `Python` `Raspberry Pi` `Speech AI` `LLM` `Edge AI` `OLED` `INMP441`
 
+### 🧩 Flujo del sistema
+
+```mermaid
+flowchart LR
+    A[🎙️ Micrófono INMP441] --> B[Reconocimiento de voz<br/>Quechua]
+    B --> C[Traducción<br/>Quechua → Español]
+    C --> D[🔊 Síntesis de voz]
+    C --> E[📟 Pantalla OLED]
+    subgraph Raspberry Pi - Edge AI offline
+    B
+    C
+    D
+    end
+```
+
 <!-- Repositorio: [Ver código](https://github.com/Jhon-ArSa/NOMBRE-DEL-REPO) -->
 
 ---
@@ -252,6 +320,18 @@ El proyecto utiliza modelos de lenguaje y bases de conocimiento para generar mat
 ### 🧠 Tecnologías
 
 `Python` `Qwen2.5` `QLoRA` `RAG` `LLM` `Embeddings`
+
+### 🧩 Arquitectura
+
+```mermaid
+flowchart LR
+    A[📚 Documentos y<br/>base de conocimiento] --> B[Embeddings]
+    B --> C[(Base vectorial)]
+    D[❓ Consulta del usuario] --> E[Recuperación]
+    C --> E
+    E --> F[LLM Qwen2.5<br/>+ QLoRA]
+    F --> G[📊 PPTX · 📝 DOCX<br/>📕 PDF · 📈 XLSX]
+```
 
 <!-- Repositorio: [Ver código](https://github.com/Jhon-ArSa/NOMBRE-DEL-REPO) -->
 
@@ -299,6 +379,37 @@ También trabajo en proyectos relacionados con:
 * 🏥 Computer Vision para aplicaciones de emergencia
 * 🌱 Inteligencia Artificial aplicada al sector agropecuario
 * 📊 Análisis automatizado mediante Deep Learning
+
+---
+
+# 📝 Investigación y publicaciones
+
+| Año | Título | Tipo | Enlace |
+|---|---|---|---|
+| _AAAA_ | _Título del trabajo o artículo_ | _Artículo / Tesis / Póster / Proyecto de investigación_ | _[Ver](#)_ |
+
+<!-- Completa o elimina esta tabla según corresponda. Ejemplo de temas que ya trabajas: visión artificial para conteo de cuyes, detección de emergencias, drones con visión artificial. -->
+
+---
+
+# 🏅 Certificaciones y cursos
+
+| Entidad | Certificación / Curso | Año | Credencial |
+|---|---|---|---|
+| _Plataforma / Institución_ | _Nombre del curso_ | _AAAA_ | _[Ver](#)_ |
+
+<!-- Completa o elimina esta tabla según corresponda. -->
+
+---
+
+# 🗺️ Hoja de ruta 2026
+
+- [x] Base en Python, backend y desarrollo móvil/web
+- [x] Proyectos de IA aplicada (RAG, Edge AI, Computer Vision)
+- [ ] Profundizar en **Cloud & DevOps** (contenedores, CI/CD, despliegue)
+- [ ] Fortalecer **seguridad de la información**
+- [ ] Mejorar **inglés** técnico y profesional
+- [ ] Consolidar un portafolio de proyectos de IA con documentación y demos
 
 ---
 
@@ -386,6 +497,19 @@ También trabajo en proyectos relacionados con:
 Actualmente estoy construyendo una base sólida en:
 
 **Artificial Intelligence · Software Engineering · Backend · Cloud · DevOps · English**
+
+---
+
+# 🤝 Colaboración
+
+Me interesa colaborar en:
+
+* 🧠 Proyectos de IA aplicada, LLMs y RAG
+* ⚡ Soluciones Edge AI y dispositivos offline
+* 👁️ Computer Vision para sector agropecuario y emergencias
+* 🌐 Tecnología con enfoque social y de lenguas originarias
+
+**¿Tienes una idea o propuesta?** Abre un *issue* en mis repositorios o escríbeme por los medios de contacto.
 
 ---
 
