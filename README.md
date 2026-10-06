@@ -1,130 +1,299 @@
-<!-- ===================== HERO ===================== -->
+<div align="center">
 
-<h1 align="center">🔥 Jhon Aroni Salazar 🔥</h1>
-<h3 align="center">Ingeniero de Sistemas · Backend · Python · Laravel · Flutter · IA Offline</h3>
+# ⚡ JHON ARONI SALAZAR
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=Python+Developer;Laravel+Backend;Flutter+Mobile+Apps;IA+Offline+Engineer;Building+Technology+with+Purpose" />
+### `Systems Engineer · AI Engineer · Backend Developer`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems;Python+%7C+Laravel+%7C+Flutter;Offline+AI+%7C+Edge+AI+%7C+RAG;Backend+%7C+Automation+%7C+Mobile;Technology+with+Purpose+%F0%9F%9A%80" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0F172A,50:111827,100:020617&text=AI%20%7C%20BACKEND%20%7C%20MOBILE&fontColor=00F7FF&fontSize=32&fontAlignY=55&animation=fadeIn"/>
+
+<p>
+  <img src="https://img.shields.io/badge/PYTHON-00F7FF?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-00E0FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mobile-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Web-F97316?style=for-the-badge"/>
-</p>
-
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=Jhon-ArSa&style=for-the-badge&color=00F7FF"/>
-  <img src="https://img.shields.io/github/followers/Jhon-ArSa?style=for-the-badge&color=8B5CF6"/>
+  <img src="https://img.shields.io/github/followers/Jhon-ArSa?style=for-the-badge&color=7C3AED"/>
   <img src="https://img.shields.io/github/stars/Jhon-ArSa?style=for-the-badge&color=FACC15"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220"/>
+</div>
 
 ---
 
-## 🧠 QUIÉN SOY
+# 🧠 ABOUT ME
 
-<p align="center">
-  <img width="420" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
-</p>
+<table>
+<tr>
+<td width="55%">
 
-🎓 Estudiante de **Ingeniería de Sistemas (8vo semestre)**  
-🧠 Especialista en **IA Offline y sistemas inteligentes**  
-🌍 Desarrollo tecnología con **impacto social real**  
-⚙️ Enfocado en backend, automatización y apps móviles  
+### 👨‍💻 Who am I?
 
----
+🎓 **Systems Engineering student**
+🏫 Universidad Nacional del Centro del Perú
 
-## ⚡ STACK TECNOLÓGICO
+🤖 Focused on **Artificial Intelligence**,
+**Backend Development** and **Intelligent Systems**.
 
-### 🧩 Lenguajes
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,php,dart&theme=dark" />
-</p>
+⚡ Interested in building technology that works
+even when connectivity is limited.
 
-<p align="center">
-  <img width="350" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />
-</p>
+🌎 Based in **Peru 🇵🇪**
 
-### 🧱 Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,flutter&theme=dark" />
-</p>
+### 🎯 Current Focus
 
-### 🔧 Herramientas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
-</p>
+```text
+Artificial Intelligence
+        ↓
+Offline AI / Edge AI
+        ↓
+RAG & Intelligent Systems
+        ↓
+Backend APIs
+        ↓
+Mobile Applications
+```
 
----
+</td>
 
-## 📊 LIVE DASHBOARD
+<td width="45%">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhon-ArSa&show_icons=true&theme=radical&hide_border=true" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jhon-ArSa&theme=radical&hide_border=true" height="200"/>
-</p>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhon-ArSa&theme=react-dark"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 ANALYTICS PROFESIONALES
+# ⚡ WHAT I BUILD
+
+<div align="center">
+
+|    🧠 AI   |      ⚙️ BACKEND     |   📱 MOBILE   |    🌐 WEB    |
+| :--------: | :-----------------: | :-----------: | :----------: |
+| Offline AI |     Python APIs     |    Flutter    |    Laravel   |
+|     RAG    |      Automation     |    Android    |   REST APIs  |
+|   Edge AI  |   Data Processing   |   Mobile UX   | Admin Panels |
+|     NLP    | Intelligent Systems | Local Storage |   Databases  |
+
+</div>
+
+---
+
+# 🛠️ TECHNOLOGY STACK
+
+### 🧠 Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhon-ArSa&theme=radical"/>
+<img src="https://skillicons.dev/icons?i=python,php,dart,js,ts,html,css,sql&theme=dark"/>
 </p>
 
+### 🚀 Frameworks & Platforms
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhon-ArSa&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jhon-ArSa&theme=radical"/>
+<img src="https://skillicons.dev/icons?i=laravel,flutter,react,nodejs&theme=dark"/>
+</p>
+
+### 🤖 AI / Data
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark"/>
+</p>
+
+### 🔧 DevOps & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark"/>
 </p>
 
 ---
 
-## 🚀 PROYECTOS CLAVE
+# 🌌 AI ENGINEERING
 
-<p align="center">
-  <img width="450" src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" />
-</p>
+<div align="center">
 
-🔥 **QHICHWA-BAND**  
-🧠 IA Offline · Voz a voz · Quechua  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2V4YjB4M2V5bDg1Y2J5dDk4NnF6bG9nN2V4dWJ4b2N4aWZ2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7qE1YN7aBOFPRw8E/giphy.gif" width="500"/>
 
-🏫 **Sistema Web Institucional**  
-Laravel · Panel administrativo  
+### `FROM DATA → INTELLIGENCE → REAL-WORLD IMPACT`
 
-📱 **Flutter App**  
-Mobile + Backend  
+</div>
+
+```text
+┌───────────────────────────────────────────────┐
+│                 DATA SOURCES                  │
+│       Documents · Audio · Images · Text       │
+└──────────────────────┬────────────────────────┘
+                       ↓
+┌───────────────────────────────────────────────┐
+│              AI / MACHINE LEARNING            │
+│          NLP · RAG · Computer Vision          │
+└──────────────────────┬────────────────────────┘
+                       ↓
+┌───────────────────────────────────────────────┐
+│                 EDGE / OFFLINE                │
+│       Raspberry Pi · Local Models · AI        │
+└──────────────────────┬────────────────────────┘
+                       ↓
+┌───────────────────────────────────────────────┐
+│              INTELLIGENT APPLICATION          │
+│        Mobile · Web · Voice · Automation      │
+└───────────────────────────────────────────────┘
+```
 
 ---
 
-## 🏆 RECONOCIMIENTOS
+# 🚀 FEATURED PROJECTS
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jhon-ArSa&theme=radical&no-frame=true&row=1&column=7"/>
+<div align="center">
+
+## 🧠 QHICHWA-BAND
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=gradient&text=QHICHWA-BAND&fontSize=32&fontColor=FFFFFF&animation=fadeIn"/>
+
+### `Offline Quechua → Spanish AI Wearable`
+
+<p>
+
+🎙️ Speech Recognition
+🧠 Artificial Intelligence
+⌚ Wearable Technology
+🔊 Voice Output
+📡 Offline Processing
+🇵🇪 Quechua Language
+
 </p>
+
+**Objective:** develop an intelligent wearable capable of processing Quechua speech and converting it into Spanish without depending on the Internet or a smartphone.
+
+</div>
 
 ---
 
-## 🌐 REDES
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Jhon-ArSa">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/tuusuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:tuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+## 📚 RAG EDUCATIVO
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
+### `AI-powered Educational Content Generator`
 
-<h2 align="center">✨ Tecnología con propósito · Código con impacto ✨</h2>
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark"/>
+
+<br><br>
+
+`Qwen` · `RAG` · `QLoRA` · `NLP` · `Document Generation`
+
+</div>
+
+Sistema orientado a la generación automática de material académico utilizando modelos de lenguaje, recuperación de información y generación de documentos.
+
+---
+
+<div align="center">
+
+## 📱 WAWA-AI
+
+### `Mobile AI Application`
+
+<img src="https://skillicons.dev/icons?i=flutter,react&theme=dark"/>
+
+<br>
+
+`Mobile` · `AI` · `API` · `Intelligent Services`
+
+</div>
+
+Aplicación móvil enfocada en integrar inteligencia artificial dentro de una experiencia accesible para usuarios finales.
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jhon-ArSa&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhon-ArSa&hide_border=true&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhon-ArSa&bg_color=0D1117&color=00F7FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 DEVELOPMENT ACTIVITY
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhon-ArSa&theme=tokyonight"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhon-ArSa&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jhon-ArSa&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jhon-ArSa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=6"/>
+
+</div>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/Jhon-ArSa">
+<img src="https://img.shields.io/badge/GitHub-Jhon--ArSa-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💡 `Technology with Purpose`
+
+### ⚡ `Code with Impact`
+
+### 🧠 `Build. Learn. Innovate.`
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:7C3AED,100:00F7FF&height=160&section=footer&animation=twinkling"/>
+
+<div align="center">
+
+**© 2026 Jhon Aroni Salazar · Peru 🇵🇪**
+
+</div>
