@@ -25,7 +25,25 @@
 
 <div align="center">
 
-[**Sobre mí**](#-sobre-mí) · [**Stack**](#-tech-stack) · [**Proyectos**](#-proyectos-destacados) · [**Investigación**](#️-computer-vision--research) · [**Estadísticas**](#-estadísticas-de-github) · [**Hoja de ruta**](#️-hoja-de-ruta-2026) · [**Contacto**](#-conecta-conmigo)
+<h4 align="center">
+  <b><a href="#-sobre-mí">Sobre mí</a></b>
+  •
+  <b><a href="#-tech-stack">Stack</a></b>
+  •
+  <b><a href="#-proyectos-destacados">Proyectos</a></b>
+  •
+  <b><a href="#️-computer-vision--research">Investigación</a></b>
+  •
+  <b><a href="#-insights-en-tiempo-real">Insights</a></b>
+  •
+  <a href="#-estadísticas-de-github">Estadísticas</a>
+  •
+  <a href="#️-hoja-de-ruta-2026">Hoja de ruta</a>
+  •
+  <a href="#-conecta-conmigo">Contacto</a>
+</h4>
+
+<p align="center"><i>Ingeniería de software e inteligencia artificial aplicada, con datos de actividad que se actualizan en tiempo real.</i></p>
 
 </div>
 
@@ -237,6 +255,40 @@ flowchart LR
 
 ---
 
+## 📡 Insights en tiempo real
+
+Widgets en vivo de [OSS Insight](https://ossinsight.io), que analiza miles de millones de eventos públicos de GitHub. Se actualizan solos, sin tocar el README.
+
+<!--
+  ⚠️ ANTES DE SUBIR, REEMPLAZA estos dos valores en todo el archivo:
+  - TU_USER_ID  → tu ID numérico de GitHub. Ábrelo en el navegador: https://api.github.com/users/Jhon-ArSa  y copia el campo "id".
+  - TU_REPO_ID  → el ID numérico de tu repo principal (por ejemplo, QHICHWA-BAND). Ábrelo en: https://api.github.com/repos/Jhon-ArSa/NOMBRE-DEL-REPO  y copia el campo "id".
+-->
+
+<div align="center">
+
+| 🛠️ En qué estoy trabajando (últimos 28 días) | 📈 Tendencia de actividad del repositorio |
+| :---: | :---: |
+| <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=TU_USER_ID&image_size=auto" alt="Currently working on" /> | <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=TU_REPO_ID&image_size=auto" alt="Activity trends" /> |
+
+| 📊 Estadísticas del repo (últimos 28 días) | 👥 Contribuidores activos (últimos 28 días) |
+| :---: | :---: |
+| <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=TU_REPO_ID&image_size=auto" alt="Stats 28 days" /> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=TU_REPO_ID&limit=100&image_size=auto" alt="Active contributors" /> |
+
+| ⭐ Historial de estrellas | 🌍 Distribución geográfica de estrellas |
+| :---: | :---: |
+| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=TU_REPO_ID&image_size=auto" alt="Star history" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=TU_REPO_ID&image_size=auto" alt="Stars map" /> |
+
+| 🔀 Tamaño de los Pull Requests | ⏱️ Ciclo de vida de los Pull Requests |
+| :---: | :---: |
+| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=TU_REPO_ID&image_size=auto" alt="PR size" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=TU_REPO_ID&image_size=auto" alt="PR lifecycle" /> |
+
+<a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">🔎 Ver más widgets en OSS Insight</a>
+
+</div>
+
+---
+
 ## 🗺️ Hoja de ruta 2026
 
 - [x] Base en Python, backend y desarrollo móvil/web
@@ -258,9 +310,9 @@ Abierto a prácticas, proyectos de investigación y colaboraciones en **IA, Comp
 
 <div align="center">
 
-<a href="https://github.com/Jhon-ArSa"><img src="https://img.shields.io/badge/GitHub-Jhon--ArSa-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:TU_CORREO@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Jhon-ArSa" target="_blank"><img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;"/></a>
+<a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/></a>
+<a href="mailto:TU_CORREO@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;"/></a>
 
 <br><br>
 
